@@ -32,6 +32,7 @@ Class	A blueprint or template for creating objects
 Object	An actual instance created from a class
 self	Refers to the current object inside the class
 __init__()	Constructor method, runs when the object is created
+The __init__ method initializes the attributes of the current instance (or object) of a class.
 __del__()	Destructor method, runs when the object is deleted
 del obj	Deletes the object manually
 
